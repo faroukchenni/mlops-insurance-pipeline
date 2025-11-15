@@ -3,4 +3,5 @@ scikit-learn
 joblib
 pytest
 pytest-cov
+mlflow
 
