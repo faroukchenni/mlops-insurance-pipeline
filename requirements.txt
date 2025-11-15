@@ -1,4 +1,5 @@
-numpy
+pytest
+pytest-covnumpy
 pandas
 scikit-learn
 matplotlib
