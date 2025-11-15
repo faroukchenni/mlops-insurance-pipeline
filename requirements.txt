@@ -1,15 +1,6 @@
-pytest
-pytest-covnumpy
 pandas
 scikit-learn
-matplotlib
-jupyter
-mlflow
-fastapi
-uvicorn
 joblib
-
-
-
 pytest
 pytest-cov
+
